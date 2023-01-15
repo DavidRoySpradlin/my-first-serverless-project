@@ -1,4 +1,4 @@
-const fetch = require('node-fetch', 'node-domexception', 'fetch-blob', 'formdata-polyfill', 'data-uri-to-buffer', 'web-streams-polyfill'); 
+import(node-fetch)
 
 exports.handler = async function() {
     const POKE_API = 'https://pokeapi.co/api/v2/pokedex/kanto'
